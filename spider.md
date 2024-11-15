@@ -1,1 +1,0 @@
-# Spider\n\![Spider Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Araneus_diadematus_%28Clerck%2C_1757%29.JPG/1200px-Araneus_diadematus_%28Clerck%2C_1757%29.JPG?20131012211130)\nThe spider is considered a type of arachnid.
