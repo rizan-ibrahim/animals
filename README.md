@@ -1,6 +1,6 @@
 # animal list info
 ## 1.[cats](./cats.md)
-![cat jpg] (https://upload.wikimedia.org/wikipedia/commons/7/74/A-Cat.jpg)
+![cat jpg](https://upload.wikimedia.org/wikipedia/commons/7/74/A-Cat.jpg)
 cats are considered felines family.
 ## 2.[parrots jpg](./parrots.md)
 ![parrot jpg](https://upload.wikimedia.org/wikipedia/commons/7/74/A-Parrot.jpg)
