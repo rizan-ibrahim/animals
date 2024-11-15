@@ -1,4 +1,4 @@
-#animal list info
+# animal list info
 ## 1.[cats](./cats.md)
 ![cat jpg] (https://upload.wikimedia.org/wikipedia/commons/7/74/A-Cat.jpg)
 cats are considered felines family.
